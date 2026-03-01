@@ -1,0 +1,1 @@
+Implementation and comparison of four AI search algorithms applied to the N-Queens problem: hill climbing, random restart hill climbing, simulated annealing, and local beam search. Includes a custom hybrid algorithm combining beam search, simulated annealing, and random restart. Built for an Intro to AI.
